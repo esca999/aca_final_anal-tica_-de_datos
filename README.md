@@ -9,6 +9,6 @@ En el siguiente repositorio encontrarás:
 
 
 
-**Archivo .CSV usado para la simulación de registros para realizar nuestra analítica de datos** 
+**-Archivo .CSV usado para la simulación de registros para realizar nuestra analítica de datos** 
 
-**Código modelo en python**
+**-Código modelo en python**
